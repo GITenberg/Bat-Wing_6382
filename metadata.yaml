@@ -1,0 +1,30 @@
+_repo: Bat-Wing_6382
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rohmer, Sax
+    alias: Ward, Arthur Sarsfield
+    birthdate: 1883
+    deathdate: 1959
+    gutenberg_agent_id: '110'
+    url: http://www.gutenberg.org/2009/agents/110
+    wikipedia: http://en.wikipedia.org/wiki/Sax_Rohmer
+description: Bat Wing is the first Paul Harley detective story. Harley is called on
+  to investigate a mysterious case in the heart of London, involving voodoo, vampirism
+  and macabre murder. This series is considered one of Rohmer's best outside his famous
+  Dr. Fu Manchu series.
+gutenberg_bookshelf: Crime Fiction
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6382'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Detective and mystery stories'
+- GITenberg
+title: Bat Wing
+url: http://www.gutenberg.org/ebooks/6382
