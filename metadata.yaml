@@ -1,5 +1,8 @@
 _repo: Bat-Wing_6382
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rohmer, Sax
@@ -13,6 +16,8 @@ description: Bat Wing is the first Paul Harley detective story. Harley is called
   to investigate a mysterious case in the heart of London, involving voodoo, vampirism
   and macabre murder. This series is considered one of Rohmer's best outside his famous
   Dr. Fu Manchu series.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6382#Bat-Wing
 gutenberg_bookshelf: Crime Fiction
 gutenberg_issued: '2004-08-01'
 gutenberg_type: Text
